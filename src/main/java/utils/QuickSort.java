@@ -1,4 +1,4 @@
-package leetcode.util;
+package utils;
 
 /**
  * @author dylan.ll

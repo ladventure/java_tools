@@ -1,4 +1,4 @@
-package leetcode.util;//package Leecode;
+package utils;//package Leecode;
 //
 ////
 //// Source code recreated from a .class file by IntelliJ IDEA

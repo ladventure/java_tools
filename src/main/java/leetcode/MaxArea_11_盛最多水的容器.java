@@ -1,6 +1,6 @@
 package leetcode;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class MaxArea_11_盛最多水的容器 {
     /**
